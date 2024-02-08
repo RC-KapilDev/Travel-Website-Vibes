@@ -22,7 +22,7 @@ Vibes Travels is a spontaneous project built solely for the enjoyment of coding 
 
 ## Contact:
 
-Got any questions or just want to chat? Feel free to connect with me on GitHub or shoot me an email at [your-email@example.com](mailto:your-email@example.com).
+Got any questions or just want to chat? Feel free to connect with me on GitHub or shoot me an email at [rkapildev8@gmail.com](mailto:rkapildev8@gmail.com).
 
 Have fun exploring Vibes Travels—where the journey is the destination!
 
